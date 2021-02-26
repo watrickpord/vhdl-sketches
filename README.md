@@ -1,2 +1,2 @@
-# vhdl-sketches
+# VHDL Sketches
 Miscellaneous VHDL code
